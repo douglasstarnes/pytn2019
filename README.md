@@ -8,3 +8,7 @@ Instructions for PyTN 2019 workshop
    *  `conda install numpy pandas matplotlib notebook`
    *  `conda install -c anaconda tensorflow`
    *  `conda install -c anaconda keras`
+5) Clone this repo
+6) Start Jupyter Notebook: `$ jupyter notebook`
+7) Open tf_test.ipynb
+8) Cell -> Run All
